@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git config project.name 'GitBranchTemplate'
+git config project.name 'gurugit'
 git config project.user 'Rivsen'
 git config commit.template .github/.gitmessage
 git config alias.hb '!f() { git checkout -b h/#$1-$2; }; f'
