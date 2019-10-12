@@ -8,7 +8,7 @@ description = "An interactive git workflow tui tool"
 homepage = "https://github.com/Rivsen/gurugit"
 repository = "https://github.com/Rivsen/gurugit"
 readme = "README.md"
-keywords = "git"
+keywords = ["git"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
