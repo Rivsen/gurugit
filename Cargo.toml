@@ -3,6 +3,12 @@ name = "gurugit"
 version = "0.1.0"
 authors = ["Rivsen <Rivsen@users.noreply.github.com>"]
 edition = "2018"
+license-file = "LICENSE"
+description = "An interactive git workflow tui tool"
+homepage = "https://github.com/Rivsen/gurugit"
+repository = "https://github.com/Rivsen/gurugit"
+readme = "README.md"
+keywords = "git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
