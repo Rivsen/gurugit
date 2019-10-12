@@ -9,6 +9,9 @@ homepage = "https://github.com/Rivsen/gurugit"
 repository = "https://github.com/Rivsen/gurugit"
 readme = "README.md"
 keywords = ["git"]
+exclude = [
+    ".github",
+]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
